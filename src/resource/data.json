@@ -1,0 +1,50 @@
+[
+	{
+		"category":"Books",
+		"title":"Books",
+		"group":"Media",
+		"standardRate":13.00
+	},
+	{
+		"category":"Movies",
+		"title":"Movies",
+		"group":"Media",
+		"standardRate":9.00
+	},
+	{
+		"category":"Music",
+		"title":"Music",
+		"group":"Media",
+		"standardRate":8.00
+	},
+	{
+		"category":"VideoGames",
+		"title":"Video Games",
+		"group":"Media",
+		"standardRate":8.00
+	},
+	{
+		"category":"VideoGamesConsoles",
+		"title":"Video Games - Consoles",
+		"group":"Media",
+		"standardRate":5.50
+	},
+	{
+		"category":"VideoGamesAccessories",
+		"title":"Video Games - Accessories",
+		"group":"Media",
+		"standardRate":9.00
+	},
+	{
+		"category":"EducationalSoftware",
+		"title":"Educational Software",
+		"group":"Media",
+		"standardRate":12.00
+	},
+	{
+		"category":"Non-Educational Software",
+		"title":"Non-Educational Software",
+		"group":"Media",
+		"standardRate":12.00
+	}
+]
